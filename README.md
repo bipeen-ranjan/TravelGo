@@ -15,9 +15,7 @@
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Run Locally](#-run-locally)
-- [Screenshots](#-screenshots)
-- [Future Enhancements](#-future-enhancements)
-- [License](#-license)
+
 - [Author](#-author)
 
 ---
@@ -100,3 +98,41 @@ TravelGo/
         ├── popular-1.jpg
         ├── gallery-1.jpg
         └── ...
+
+## 🎯 Project Goals
+
+This project aims to:
+
+- ✅ Build a real-world responsive travel website using HTML, CSS, and JavaScript  
+- ✅ Practice modern UI layout and responsive design techniques  
+- ✅ Implement interactive features using vanilla JavaScript  
+- ✅ Create a portfolio-ready frontend project for internships and fresher roles  
+- ✅ Strengthen understanding of website structure and asset management  
+
+---
+
+## 📞 Support & Contact
+
+- **GitHub Issues:**  
+  https://github.com/bipeen-ranjan/TravelGo/issues
+
+- **Project Repository:**  
+  https://github.com/bipeen-ranjan/TravelGo
+
+
+---
+
+## 🎉 Final Words
+
+If you’ve reached this point, it means you’re serious about learning and building real projects.  
+**TravelGo** represents a hands-on step toward becoming a confident frontend developer.
+
+Remember:
+> Learning comes from building, breaking, and improving.
+
+Keep experimenting, keep shipping projects, and keep growing as a developer. 🚀
+
+---
+
+**Created and maintained by [Bipeen Raj](https://github.com/bipeen-ranjan)**  
+⭐ If you found this project useful, consider starring the repository — it really helps!
