@@ -103,6 +103,7 @@ TravelGo/
         ├── gallery-1.jpg
         └── ...
 
+-----
 ## 🎯 Project Goals
 
 This project aims to:
