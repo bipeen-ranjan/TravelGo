@@ -1,50 +1,84 @@
+# ✈️ TravelGo – Responsive Travel Website  
+> *“Plan your perfect journey with a modern, responsive travel experience.”*
+
+[![Made with HTML](https://img.shields.io/badge/Made%20with-HTML5-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Styled with CSS](https://img.shields.io/badge/Styled%20with-CSS3-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Powered by JavaScript](https://img.shields.io/badge/Powered%20by-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Responsive Design](https://img.shields.io/badge/Design-Responsive-brightgreen.svg)]
 
 ---
 
-## ✅ FINAL CORRECT VERSION (Copy–Paste This)
-
-```md
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/bipeen-ranjan/TravelGo)
-![GitHub stars](https://img.shields.io/github/stars/bipeen-ranjan/TravelGo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/bipeen-ranjan/TravelGo?style=social)
-
-<br />
-<br />
-
-<h2>TravelGo – Responsive Travel Website</h2>
-
-<p>
-A modern, fully responsive travel website built using HTML, CSS, and JavaScript.
-</p>
-
-</div>
-
-TravelGo is a modern and fully responsive travel website built using **HTML, CSS, and JavaScript**.  
-It showcases popular travel destinations and tour packages with a clean and user-friendly design.
+## 📖 Table of Contents
+- [What Is TravelGo?](#-what-is-travelgo)
+- [Why This Project?](#-why-this-project)
+- [Key Features](#-key-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Run Locally](#-run-locally)
+- [Screenshots](#-screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
-## 🌍 Features
+## 🌍 What Is TravelGo?
 
-- Fully responsive layout (mobile, tablet, desktop)
-- Modern and clean UI design
+**TravelGo** is a modern, fully responsive travel website built using **HTML, CSS, and JavaScript**.  
+It showcases popular destinations, travel packages, and a clean booking-style interface suitable for real-world travel agencies.
+
+The project focuses on:
+- Clean UI design
+- Responsive layouts
+- Beginner-friendly frontend code
+
+---
+
+## 💡 Why This Project?
+
+This project was built to:
+- Practice real-world website layouts
+- Learn responsive web design
+- Understand DOM manipulation using JavaScript
+- Build a portfolio-ready frontend project
+
+Ideal for:
+- Web Developer Intern roles  
+- Frontend Developer fresher interviews  
+- College and personal portfolio projects  
+
+---
+
+## ✨ Key Features
+
+### 🧭 User Interface
+- Modern hero section with call-to-action
+- Popular destinations showcase
+- Travel packages with pricing
+- Image gallery section
+
+### 📱 Responsiveness
+- Works on mobile, tablet, and desktop
 - Mobile navigation menu with toggle
+- Flexible grid-based layout
+
+### ⚙️ Interactivity
 - Sticky header on scroll
+- Mobile navbar open/close
 - Go-to-top button
-- Popular destinations section
-- Travel packages section
-- Image gallery
-- Call-to-action and contact section
+- Smooth scrolling behavior
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **HTML5** – Website structure  
-- **CSS3** – Styling, layout, responsiveness  
-- **JavaScript (Vanilla JS)** – Interactivity and UI behavior  
+| Layer | Technology |
+|------|------------|
+| Structure | HTML5 |
+| Styling | CSS3 (Flexbox, Media Queries) |
+| Interactivity | Vanilla JavaScript |
+| Icons | Ionicons |
+| Tools | VS Code, Git, GitHub |
 
 ---
 
@@ -52,7 +86,9 @@ It showcases popular travel destinations and tour packages with a clean and user
 
 ```text
 TravelGo/
-│── index.html
+│
+├── index.html
+├── README.md
 │
 └── assets/
     ├── css/
@@ -60,3 +96,7 @@ TravelGo/
     ├── js/
     │   └── script.js
     └── images/
+        ├── hero-banner.jpg
+        ├── popular-1.jpg
+        ├── gallery-1.jpg
+        └── ...
