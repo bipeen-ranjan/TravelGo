@@ -1,6 +1,10 @@
 # ✈️ TravelGo – Responsive Travel Website  
 > *“Plan your perfect journey with a modern, responsive travel experience.”*
 
+## 🌐 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bipeen-ranjan.github.io/TravelGo/)
+
+
 [![Made with HTML](https://img.shields.io/badge/Made%20with-HTML5-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Styled with CSS](https://img.shields.io/badge/Styled%20with-CSS3-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Powered by JavaScript](https://img.shields.io/badge/Powered%20by-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
